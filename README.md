@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anndrozdova
+- 👋 Hi, I’m @Stacy
 - 👀 I’m interested in music, books, travel and sports
 - 🌱 I’m currently learning Java..
 - 💞️ I’m looking to collaborate on ...
