@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anndrozdova
+- 👋 Hi, I’m @Stacy
 - 👀 I’m interested in music, books, travel and sports
 - 🌱 I’m currently learning Java..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +48788401075 (+380633340748)...
+- 📫 How to reach me +48788401026 ...
 
 <!---
 Anndrozdova/Anndrozdova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
